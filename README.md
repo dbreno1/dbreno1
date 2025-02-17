@@ -32,8 +32,8 @@ Confira meus projetos e contribuições no GitHub: github.com/dbreno1
 </a>
 <div>
   <a href="https://github.com/dbreno1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-07&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreno1&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dbreno1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
