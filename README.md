@@ -1,16 +1,23 @@
-## Hi there 👋
+- 🌱 Atualmente estou finalizando o ultimo termo na FATEC
+- 👯 Estou procurando estágio na área de tecnologia e suporte têcnico
+- 📫 Como entrar em contato comigo: brenodiana132@gmail.com
+<div>
+<a href="mailto:brenodiana132@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
-<!--
-**dbreno1/dbreno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/breno-diana-7727a31a2" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/breno_d1" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<div>
+  <a href="https://github.com/Breno-07">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-07&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div/>
