@@ -1,4 +1,5 @@
-<div style="background-image: url('https://imgur.com/U1feNYj'); background-size: cover; background-position: center; padding: 50px; color: white; border-radius: 10px; text-align: center;">
+  <img src="https://i.imgur.com/U1feNYj.png" alt="Imagem do perfil" style="max-width: 300px; border-radius: 50%;">
+
 
 - 💻 Sobre Mim
 Atualmente finalizando o último termo na FATEC, estou em busca de uma oportunidade de estágio na área de tecnologia e suporte técnico. Tenho grande interesse em aprimorar minhas habilidades técnicas e contribuir para soluções inovadoras no setor.
